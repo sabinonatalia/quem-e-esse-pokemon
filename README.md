@@ -5,7 +5,7 @@
 <p>Em desenvolvimento 👩🏿‍💻</p>
 
 <h2>Sobre:</h2>
-<p>Desafio do mês proposto pelo discord <a href="https://discord.gg/8fCeuU63SW">Dev Girl Mentor</a></p>
+<p>Desafio do mês proposto pelo discord <a href="https://discord.gg/8fCeuU63SW">Dev Girl Mentor.</a></p>
 <p>O desafio consiste em criar um joguinho, QUEM É ESSE POKÉMON? onde a pessoa que estiver jogando, precisa adivinhar qual é o pokémon na sombra.</p>
 
 <p align="center">
